@@ -27,6 +27,24 @@ cd MiCarpetaDeTrabajo
 
 Ahora clona el repositorio dentro de esa carpeta:
 ```bash
-mkdir MiCarpetaDeTrabajo
-cd MiCarpetaDeTrabajo
+git clone <URL_DEL_REPOSITORIO> proyecto-fastapi
 ```
+
+## 2. Crear el Entorno Virtual
+```bash
+python -m venv venv
+```
+
+## 3. Activar el Entorno Virtual
+Antes de instalar las dependencias, debes activar el entorno virtual.
+En Windows:
+```bash
+.\venv\Scripts\activate
+```
+En macOS/Linux:
+```bash
+source venv/bin/activate
+```
+Verás que tu terminal cambia y muestra (venv) al inicio, indicando que el entorno está activo.
+
+
