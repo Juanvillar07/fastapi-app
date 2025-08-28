@@ -37,6 +37,7 @@ python -m venv venv
 
 ## 3. Activar el Entorno Virtual
 Antes de instalar las dependencias, debes activar el entorno virtual.
+
 En Windows:
 ```bash
 .\venv\Scripts\activate
