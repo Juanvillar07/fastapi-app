@@ -1,19 +1,12 @@
-# 🚀 Guía de Configuración e Inicio del Proyecto FastAPI
+<img width="479" height="122" alt="image" src="https://github.com/user-attachments/assets/bcd35316-c536-4c13-885b-3dfd9c47b54a" /># 🚀 Guía de Configuración e Inicio del Proyecto FastAPI
 
-Esta guía te ayudará a clonar el repositorio, configurar tu entorno virtual, instalar las dependencias y ejecutar la aplicación **FastAPI**.
-
----
-
-## 📂 Estructura del Proyecto
-Un ejemplo típico de estructura de proyecto en FastAPI podría verse así:
-
+Este proyecto utiliza **FastAPI** como framework principal.  
+A continuación se explican los pasos para clonar el repositorio, configurar el entorno virtual en una carpeta separada e instalar las dependencias necesarias.
 
 ---
 
-## 1. Clonar el Repositorio
-Abre tu terminal y navega hasta la carpeta donde quieras guardar el proyecto.  
-Luego, clona el repositorio con el siguiente comando:
+## 📂 Organización de Carpetas
 
-```bash
-git clone https://github.com/Juanvillar07/fastapi-app.git
-cd <NOMBRE_DEL_REPOSITORIO>
+La idea es tener una estructura como esta:
+
+<img width="479" height="122" alt="image" src="https://github.com/user-attachments/assets/dc79ba64-5d22-4164-b198-bd3f449b05db" />
