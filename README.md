@@ -66,8 +66,8 @@ uvicorn app.main:app --reload
 Esto levantará el servidor en:
 👉 http://127.0.0.1:8000
 La documentación interactiva estará disponible en:
-# Swagger UI → http://127.0.0.1:8000/docs
-# ReDoc → http://127.0.0.1:8000/redoc
+### Swagger UI → http://127.0.0.1:8000/docs
+### ReDoc → http://127.0.0.1:8000/redoc
 
 
 
