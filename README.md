@@ -15,5 +15,5 @@ Abre tu terminal y navega hasta la carpeta donde quieras guardar el proyecto.
 Luego, clona el repositorio con el siguiente comando:
 
 ```bash
-git clone <URL_DEL_REPOSITORIO>
+git clone https://github.com/Juanvillar07/fastapi-app.git
 cd <NOMBRE_DEL_REPOSITORIO>
