@@ -48,4 +48,27 @@ source venv/bin/activate
 ```
 Verás que tu terminal cambia y muestra (venv) al inicio, indicando que el entorno está activo.
 
+## 4. Instalar las Dependencias
+Con el entorno virtual activado, entra en la carpeta del proyecto clonado:
+```bash
+cd proyecto-fastapi
+```
+Instala todas las dependencias necesarias desde el archivo requirements.txt:
+```bash
+pip install -r requirements.txt
+```
+
+## 5. Ejecutar el Proyecto
+Con el entorno virtual activo y dentro de la carpeta del proyecto (proyecto-fastapi), inicia el servidor de desarrollo de FastAPI con:
+```bash
+uvicorn app.main:app --reload
+```
+Esto levantará el servidor en:
+👉 http://127.0.0.1:8000
+La documentación interactiva estará disponible en:
+# Swagger UI → http://127.0.0.1:8000/docs
+# ReDoc → http://127.0.0.1:8000/redoc
+
+
+
 
